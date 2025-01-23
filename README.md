@@ -63,10 +63,6 @@ We welcome contributions to Sipher! To contribute:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Support 💡
-
-For questions or support, please open an issue on the GitHub repository or contact us at [support@sypherchatbot.tech](mailto:support@sypherchatbot.tech).
-
 ---
 
 Thank you for using Sipher! We hope it transforms your conversational AI needs. 🤩
